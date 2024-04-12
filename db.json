@@ -10,7 +10,7 @@
       "city": "Barcelona",
       "address": "Carrer d'Aragó, 8",
       "likes": 20,
-      "image": "https://github.com/agilsan/restaurants/blob/main/images/restaurant01.jpg"
+      "image": "https://github.com/agilsan/restaurants/blob/main/images/restaurant01.jpg?raw=true"
     },
     {
       "id": 1,
@@ -22,7 +22,7 @@
       "city": "Barcelona",
       "address": "Carrer de Bailèn, 115",
       "likes": 2,
-      "image": "https://github.com/agilsan/restaurants/blob/main/images/restaurant02.jpg"
+      "image": "https://github.com/agilsan/restaurants/blob/main/images/restaurant02.jpg?raw=true"
     },
     {
       "id": 2,
@@ -34,7 +34,7 @@
       "city": "Barcelona",
       "address": "Carrer de Manuel de Falla, 16",
       "likes": 13,
-      "image": "https://github.com/agilsan/restaurants/blob/main/images/restaurant03.jpg"
+      "image": "https://github.com/agilsan/restaurants/blob/main/images/restaurant03.jpg?raw=true"
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@
       "city": "Barcelona",
       "address": "Carrer de València, 285",
       "likes": 31,
-      "image": "https://github.com/agilsan/restaurants/blob/main/images/restaurant04.jpg"
+      "image": "https://github.com/agilsan/restaurants/blob/main/images/restaurant04.jpg?raw=true"
     }
   ],
   "Categories": ["burgers", "cafeterias", "brunch", "oriental", "pizzas"],
